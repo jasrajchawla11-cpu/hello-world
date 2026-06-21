@@ -2,7 +2,7 @@
 
 A simple Python project to greet the world.
 
-## Instalation
+## Installation
 
 No dependencies required. Just run:
 
@@ -18,6 +18,6 @@ The script accepts an optional name argument:
 python main.py --name Alice
 ```
 
-## Lisence
+## License
 
 MIT
